@@ -1,5 +1,5 @@
 
-## AI-Agent-Investment-Assistant
+AI-Agent-Investment-Assistant
 
 
 - AI driven "Investment Assistant" tailored for portfolio managers and automates stock analysis, processes real-time market data, extract insights from historical data and provides intelligent, recommendations.
@@ -11,4 +11,7 @@ This is one of the approaches to LLM driven "Investment Assistant " using Databr
 
 Note: This is not intended for real stock market investments or trading purposes, nor does it constitute financial, investment, tax, legal, accounting, or other professional advice. This use case is solely for demonstrating the capabilities of the Databricks Agent Platform, with a focus on technical components and high-level solution architecture.
 
-### Related bolgs :
+Related bolgs :
+https://medium.com/@sarbani.maiti_91239/unlocking-the-power-of-ai-agent-with-databricks-mosaic-ai-agent-framework-721211bd5bfe
+
+https://medium.com/@sarbani.maiti_91239/future-of-automation-with-generative-ai-agents-be52bd089129
