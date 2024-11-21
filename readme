@@ -1,13 +1,15 @@
-This repository will focus on GenerativeAI applications.
+%md
 
-AI-Agent-Investment-Assistant
+## AI-Agent-Investment-Assistant
 
-AI driven "Investment Assistant" tailored for portfolio managers and automates stock analysis, processes real-time market data, extract insights from historical data and provides intelligent, recommendations.
-By leveraging AI to streamline first level of decision-making, portfolio managers can focus on more strategic initiatives, reduce analysis time, and improve investment outcomes, driving both efficiency and profitability.
 
-In this solution, I'll walk you through the process of building an AI agent step-by-step using the Databricks Agent Platform.
+- AI driven "Investment Assistant" tailored for portfolio managers and automates stock analysis, processes real-time market data, extract insights from historical data and provides intelligent, recommendations.
+
+- By leveraging AI to streamline first level of decision-making, portfolio managers can focus on more strategic initiatives, reduce analysis time, and improve investment outcomes, driving both efficiency and profitability.
+
+- In this solution, I'll walk you through the process of building an AI agent step-by-step using the Databricks Agent Platform.
 This is one of the approaches to LLM driven "Investment Assistant " using Databricks Mosaic AI Agent Framework. 
 
 Note: This is not intended for real stock market investments or trading purposes, nor does it constitute financial, investment, tax, legal, accounting, or other professional advice. This use case is solely for demonstrating the capabilities of the Databricks Agent Platform, with a focus on technical components and high-level solution architecture.
 
-Related bolgs :
+### Related bolgs :
