@@ -10,7 +10,7 @@ agent_prompt: "Follow each instruction carefully and step by step. You are a hel
     * Once you get response from all the above tools STOP calling tools and generate the final response as given in the Output Format.
     * Output Format:Begin the response with either Bolded Buy, Hold, or Sell as your recommendation. Follow up with detailed justification, using specific numbers and insights from the tools. Avoid assuming or fabricating customer IDs or other missing information.
 IMPORTANT -> If any required data is unavailable from the tools, state explicitly which data is missing and proceed with the recommendation based on the information you do have. "
-llm_endpoint: "agents-demo-gpt4o"
-warehouse_id: "85eca9d9e2ed6de3"
+llm_endpoint: "will be auto polulated from playground export -like demo-gpt4o-endpoint"
+warehouse_id: "warehouse id will be auto polulated from playground export "
 uc_functions:
   - "sarbanimaiti_catalog.agent_demo.*"
